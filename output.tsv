@@ -1,4 +1,4 @@
-QUERY_TERM	PMID	JOURNAL_TITLE	YEAR	PMCID	DOI	PMC_CITATION_COUNT	INDRA_STATEMENT_COUNT	OC_CITATION_COUNT	INDRA_QUERY_TERM_STATEMENT_COUNT	MESH_TERMS
+QUERY_TERM	PMID	JOURNAL_TITLE	YEAR	PMCID	DOI	PMC_CITATION_COUNT	INDRA_STATEMENT_COUNT	OC_CITATION_COUNT	INDRA_QUERY_TERM_STATEMENT_COUNT	MESH_TERMS	PMID_COUNT 
 uniprot:null	30284721	Int Endod J	2018		10.1111/iej.13021	1	0	0	0	*Dental Pulp Cavity|*Proteomics|*Root Canal Therapy|Periapical Periodontitis
 uniprot:null	28145583	J. Cell. Biochem.	2017		10.1002/jcb.25920	0	0	0	0	Humans|*Filamins|Larsen Syndrome|*Osteochondrodysplasias|Phenotype|Mutation
 ALCAM	32629311	Neurobiol. Aging	2020		10.1016/j.neurobiolaging.2020.04.017	0	0	0	337	Animals|Humans|*Zebrafish|*Aging|*Brain|*Sequencing, RNA|Alzheimer Disease|*Base Sequence|Gene Expression Profiling|*Whole Exome Sequencing|*Cell Adhesion Molecules|ALCAM protein, human|Cell Adhesion Molecules, Neuronal|ALCAM|Fetal Proteins|Antigens, CD

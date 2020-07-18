@@ -3440,3 +3440,6 @@ AC003092.1	28938589	Oncotarget	2017	PMC5601685	10.18632/oncotarget.17506	10	0	0	
 AC002511.1	31448228	Front Oncol	2019	PMC6691151	10.3389/fonc.2019.00712	7	0	0	0		1
 AC002454.1	30884467	Reproduction	2019		10.1530/REP-19-0005	1	8	0	0	Humans|Female|*Endometriosis|*Endometrium|*Cell Migration|CDK6 protein, human|*Cyclin-Dependent Kinase 6|Stromal Cells|lncRNA|Cell Proliferation|*Genes, cdc|mRNA|Signal Transduction|Epithelial Cells|Cells, Cultured	2
 AC002454.1	26618670	Cell. Physiol. Biochem.	2015		10.1159/000438579	15	2	1	0	Humans|Female|*Long Non-Coding RNA|*Endometriosis|Oligonucleotide Array Sequence Analysis|Gene Expression Profiling|Signal Transduction|Endometrium	2
+ABRACL	30828420	F1000Res	2019	PMC6381805	10.12688/f1000research.14451.3	2	1	0	27		3
+ABRACL	30676103	Genet Test Mol Biomarkers	2019		10.1089/gtmb.2018.0195	0	0	0	27	Humans|*Stomach Neoplasms|*Tumorigenesis|*Cell Transformation, Neoplastic|Prognosis|Biomarkers, Tumor|Gene Expression Regulation, Neoplastic|Kaplan-Meier Estimate	3
+ABRACL	29312627	Oncotarget	2018	PMC5752540	10.18632/oncotarget.22725	3	0	0	27	Humans|Female|*Proteomics|*Endometrial Cancers|Endometrium|Two Dimensional Gel Electrophoresis|Proteome|Mass Spectrometry|Cancer Biomarkers|Uterus|Western Blotting	3
